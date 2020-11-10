@@ -1,0 +1,15 @@
+from selenium import webdriver
+driver=webdriver.Chrome(executable_path=r"C:\Users\LENOVO\PycharmProjects\chromedriver.exe")
+# driver=webdriver.Firefox(executable_path=r"C:\Users\LENOVO\PycharmProjects\geckodriver.exe")
+# driver=webdriver.Ie(executable_path=r"C:\Users\LENOVO\PycharmProjects\IEDriverServer.exe")
+driver.get("https://rahulshettyacademy.com")
+driver.maximize_window()
+driver.implicitly_wait(10)
+print(driver.title)
+print(driver.current_url)
+driver.get(r"https://www.rahulshettyacademy.com/AutomationPractice/")
+driver.back()
+driver.refresh()
+driver.minimize_window()
+
+driver.close()

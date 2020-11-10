@@ -1,0 +1,21 @@
+2020-04-30 12:07:49,517 : INFO : pytestDemo.test_logging : to print information statements
+2020-04-30 12:07:49,517 : WARNING : pytestDemo.test_logging : something is in warning mode
+2020-04-30 12:07:49,518 : ERROR : pytestDemo.test_logging : a major error happened
+2020-04-30 12:10:05,327 : INFO : pytestDemo.test_logging : to print information statements
+2020-04-30 12:10:05,327 : WARNING : pytestDemo.test_logging : something is in warning mode
+2020-04-30 12:10:05,327 : ERROR : pytestDemo.test_logging : a major error happened
+2020-04-30 12:10:05,328 : CRITICAL : pytestDemo.test_logging : critical issue
+2020-04-30 12:29:23,941 : INFO : frameworksDemo.pytestDemo.BaseClass : rahul
+2020-04-30 12:29:23,941 : INFO : frameworksDemo.pytestDemo.BaseClass : rahul
+2020-04-30 12:29:23,942 : INFO : frameworksDemo.pytestDemo.BaseClass : shetty
+2020-04-30 12:29:23,942 : INFO : frameworksDemo.pytestDemo.BaseClass : shetty
+2020-04-30 12:31:53,732 : INFO : frameworksDemo.pytestDemo.BaseClass : rahul
+2020-04-30 12:31:53,732 : INFO : frameworksDemo.pytestDemo.BaseClass : rahul
+2020-04-30 12:31:53,733 : INFO : frameworksDemo.pytestDemo.BaseClass : shetty
+2020-04-30 12:31:53,733 : INFO : frameworksDemo.pytestDemo.BaseClass : shetty
+2020-04-30 12:35:19,251 : INFO : frameworksDemo.pytestDemo.BaseClass : rahul
+2020-04-30 12:35:19,251 : INFO : frameworksDemo.pytestDemo.BaseClass : rahul
+2020-04-30 12:35:19,252 : INFO : frameworksDemo.pytestDemo.BaseClass : shetty
+2020-04-30 12:35:19,252 : INFO : frameworksDemo.pytestDemo.BaseClass : shetty
+2020-04-30 12:37:47,829 : INFO : test_editProfile2 : rahul
+2020-04-30 12:37:47,829 : INFO : test_editProfile2 : shetty
